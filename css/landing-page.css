@@ -255,7 +255,11 @@ iframe {
   width: 100%;
   height: 100%;
   /*background-color: #808B96;*/
-  background-image: url(../img/pet_cbm.png);
+  /*background-image: url(../img/pet_cbm.png);*/
+  background: linear-gradient(
+          rgba(0, 0, 0, 0.75),
+          rgba(0, 0, 0, 0.75)
+        ), url(../img/pet_cbm.png)
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
