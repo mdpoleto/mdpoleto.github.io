@@ -1,12 +1,18 @@
 ---
 layout: default
-img: code.jpg
+img:
 category: Experiences
-title: "Postdoctoral Researcher"
+title: "Postdoctoral Associate"
 description: |
 ---
 
-* 2019 – 2024
-* University of California, Riverside
-* Position: Postdoctoral Researcher under Dr. Giulia Palermo
-* Activities: Structural and conformational characterization of of proteins and nucleic acids involved in genome editing and regulation, which are promising against cancer and genetic diseases. Please, see more information [here](https://palermolab.com/research/).
+* __2020 – 2024__
+* Virginia Tech - Blacksburg, VA
+* Mentoring: Dr. Justin A. Lemkul
+* Activities: Enhanced sampling methods applied to the Drude polarizable force field; Development of TUPÃ for electric field analyses; Force field development for PET polymer. For more information, see [here](https://www.thelemkullab.com/publications).
+
+
+* __2019 – 2020__
+* Universidade Federal de Viçosa - Brazil
+* Supervisor: Dr. Juliana Lopes Rangel Fietto
+* Activities: Antibody development for low-cost Covid-19 rapid test
