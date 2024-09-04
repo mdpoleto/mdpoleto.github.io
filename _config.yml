@@ -24,22 +24,22 @@ plugins:
 # ----------------------- #
 
 social:
-  - icon: linkedin
-    title: linkedin
-    url: https://www.linkedin.com/in/marcelodpoleto/
+  - icon: envelope-o
+    title: email
+    url: mailto:marcelodepolo@gmail.com
   - icon: flask
     title: scholar
     url: https://scholar.google.com/citations?user=sDHrqK4AAAAJ&hl
+  - icon: file-pdf-o
+    title: CV
+    url: https://mdpoleto.github.io/rsc/full_CV_MDP.pdf
   - icon: github
     title: github
     url: https://github.com/mdpoleto
   - icon: twitter
     title: twitter
     url: https://twitter.com/mdpoleto
-  - icon: file-pdf-o
-    title: CV
-    url: https://mdpoleto.github.io/rsc/full_CV_MDP.pdf
-  - icon: envelope-o
-    title: email
-    url: mailto:marcelodepolo@gmail.com
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/marcelodpoleto/
     

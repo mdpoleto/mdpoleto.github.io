@@ -1,6 +1,7 @@
 ---
 layout: default
 img: rain.jpg
+category: Projects
 title: "Making it rain"
 description: Cloud-based molecular simulations for everyone
 ---
