@@ -1,9 +1,9 @@
 ---
 layout: default
-img: rain.jpg
+img: tupa.jpg
 category: Projects
-title: "Making it rain"
-description: Cloud-based molecular simulations for everyone
+title: TUPÃ
+description: Electric field analyses for molecular simulations
 ---
 
-* __Making it rain__ is a Jupyter notebook scripts for running Molecular Dynamics (MD) simulations using OpenMM engine and AMBER and CHARMM force fields files on Google Colab. The main goal of this work is to demonstrate how to harness the power of cloud-computing to run microsecond-long MD simulations in a cheap and yet feasible fashion. More information here: [Making-it-rain](https://pablo-arantes.github.io/making-it-rain/).
+* __TUPÃ__ (pronounced as tu-pan) is a python algorithm that employs MDAnalysis engine to calculate electric fields at any point inside the simulation box throughout MD trajectories. TUPÃ also includes a PyMOL plugin to visualize electric field vectors together with molecules. For more information, visit: [https://github.com/mdpoleto/tupa](https://github.com/mdpoleto/tupa).
