@@ -1,9 +1,9 @@
 ---
 layout: default
-img: project2.jpg
+img: tupa.jpg
 category: Projects
-title: "Cloud-Bind"
-description: Cloud-based Drug Binding Structure Prediction 
+title: TUPÃ
+description: Electric field analyses for molecular simulations
 ---
 
-* __Cloud-Bind__ is a repository where you can find a Jupyter notebook scripts for running GNINA (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks), Uni-Dock (GPU-accelerated molecular docking program) and OpenBPMD (evaluating ligand pose stability using metadynamics) on Google Colab. More information  here: [Cloud-Bind](https://github.com/pablo-arantes/Cloud-Bind).
+* __TUPÃ__ (pronounced as tu-pan) is a python algorithm that employs MDAnalysis engine to calculate electric fields at any point inside the simulation box throughout MD trajectories. TUPÃ also includes a PyMOL plugin to visualize electric field vectors together with molecules. For more information, visit: [https://github.com/mdpoleto/tupa](https://github.com/mdpoleto/tupa).
