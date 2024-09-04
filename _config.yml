@@ -1,5 +1,27 @@
-title: Polêto
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://mdpoleto.github.io/
+title: Marcelo D. Polêto
+email: marcelodepolo@gmail.com
 author: Marcelo D. Polêto
+description: "Research scientist at USP-EEL."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+plugins:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
 
 social:
   - icon: linkedin
@@ -20,3 +42,4 @@ social:
   - icon: envelope-o
     title: email
     url: mailto:marcelodepolo@gmail.com
+    
