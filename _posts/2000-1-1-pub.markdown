@@ -1,0 +1,11 @@
+---
+layout: default
+img:
+category: Publications
+title: "List of Publications"
+description: |
+---
+
+- [ResearchGate](https://www.researchgate.net/profile/Pablo-Arantes)
+- [GoogleScholar](https://scholar.google.com/citations?user=PtrGDD8AAAAJ&hl=en)
+
