@@ -6,4 +6,4 @@ title: ConfID
 description: Conformational characterization of small molecules
 ---
 
-* __ConfID__ is a Python-based computational tool  designed to identify and characterize conformational populations of drug-like molecules sampled through molecular dynamics simulations. For more information, visit: [https://github.com/sbcblab/confid](https://github.com/sbcblab/confid).
+* [__ConfID__](https://github.com/sbcblab/confid) is a Python-based computational tool  designed to identify and characterize conformational populations of drug-like molecules sampled through molecular dynamics simulations.

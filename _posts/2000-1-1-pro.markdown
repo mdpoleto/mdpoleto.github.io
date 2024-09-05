@@ -1,0 +1,9 @@
+---
+layout: default
+img: tupa.png
+category: Projects
+title: TUPÃ
+description: Electric field analyses for molecular simulations
+---
+
+* [__TUPÃ__](https://github.com/mdpoleto/tupa) (pronounced as tu-pan) is a python algorithm that employs MDAnalysis engine to calculate electric fields at any point inside the simulation box throughout MD trajectories. TUPÃ also includes a PyMOL plugin to visualize electric field vectors together with molecules.
