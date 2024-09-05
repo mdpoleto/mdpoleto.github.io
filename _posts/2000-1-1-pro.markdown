@@ -1,9 +1,9 @@
 ---
 layout: default
-img: tupa.png
+img: ff_dev.png
 category: Projects
-title: TUPÃ
-description: Electric field analyses for molecular simulations
+title: Enzyme engineering and plastic biorecycling
+description: Enzyme engineering towards plastic biorecycling
 ---
 
-* [__TUPÃ__](https://github.com/mdpoleto/tupa) (pronounced as tu-pan) is a python algorithm that employs MDAnalysis engine to calculate electric fields at any point inside the simulation box throughout MD trajectories. TUPÃ also includes a PyMOL plugin to visualize electric field vectors together with molecules.
+We use simulations to investigate the molecular forces driving enzyme catalysis towards plastics.

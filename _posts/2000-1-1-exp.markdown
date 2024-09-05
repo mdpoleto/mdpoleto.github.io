@@ -1,7 +1,7 @@
 ---
 layout: default
 img:
-category: Experiences
+category: Experience
 title: "Postdoctoral Associate"
 description: |
 ---
