@@ -2,7 +2,7 @@
 layout: default
 img: ff_dev.png
 category: Projects
-title: __Enzyme engineering and plastic biorecycling__
+title: Enzyme engineering and plastic biorecycling
 description: Enzyme engineering towards plastic biorecycling
 ---
 
