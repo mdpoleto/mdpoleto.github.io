@@ -1,7 +1,7 @@
 ---
 layout: default
 img: tupa.png
-category: Projects
+category: Softwares
 title: TUPÃ
 description: Electric field analyses for molecular simulations
 ---

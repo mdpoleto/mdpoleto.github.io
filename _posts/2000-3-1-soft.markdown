@@ -1,7 +1,7 @@
 ---
 layout: default
 img: confid.png
-category: Projects
+category: Softwares
 title: ConfID
 description: Conformational characterization of small molecules
 ---
