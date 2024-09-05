@@ -8,7 +8,7 @@ description: |
 
 * __2020 – 2024__
 * Virginia Tech - Blacksburg, VA
-* Mentoring: Dr. Justin A. Lemkul
+* Supervisor: Dr. Justin A. Lemkul
 * Activities: Enhanced sampling methods applied to the Drude polarizable force field; Development of TUPÃ for electric field analyses; Force field development for PET polymer. For more information, see [here](https://www.thelemkullab.com/publications).
 <br>
 <br>
