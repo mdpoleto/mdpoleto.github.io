@@ -2,7 +2,7 @@
 layout: default
 img: ff_dev.png
 category: Projects
-title: __Force field development for plastic polymers__
+title: Force field development for plastic polymers
 description: Force field development for plastic polymers
 ---
 
