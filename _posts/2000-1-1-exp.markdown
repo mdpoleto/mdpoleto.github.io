@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Postdoctoral Associate"
+img:
 category: Experiences
-posts:
-  - title: "Postdoctoral Associate"
-    content: * __2020 – 2024__
-    * Virginia Tech - Blacksburg, VA
-    * Mentoring: Dr. Justin A. Lemkul
-    * Activities: Enhanced sampling methods applied to the Drude polarizable force field; Development of TUPÃ for electric field analyses; Force field development for PET polymer. For more information, see [here](https://www.thelemkullab.com/publications).
-    img:
+title: "Postdoctoral Associate"
+description: |
+---
 
-  - title: "Postdoctoral Associate"
-    content: * __2019 – 2020__
-    * Universidade Federal de Viçosa - Brazil
-    * Supervisor: Dr. Juliana Lopes Rangel Fietto
-    * Activities: Antibody development for low-cost Covid-19 rapid test
-    img:
+* __2020 – 2024__
+* Virginia Tech - Blacksburg, VA
+* Mentoring: Dr. Justin A. Lemkul
+* Activities: Enhanced sampling methods applied to the Drude polarizable force field; Development of TUPÃ for electric field analyses; Force field development for PET polymer. For more information, see [here](https://www.thelemkullab.com/publications).
+<br>
+<br>
+* __2019 – 2020__
+* Universidade Federal de Viçosa - Brazil
+* Supervisor: Dr. Juliana Lopes Rangel Fietto
+* Activities: Antibody development for low-cost Covid-19 rapid test
