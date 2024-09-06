@@ -102,20 +102,22 @@ h6 {
 }
 
 .content-section-a {
-    padding: 10px 0;
+    padding-top: 0px;
+    padding-bottom: 10px
     background-color: #f8f8f8;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid #f8f8f8;
 }
 
 .content-section-b {
-    padding: 10px 0;
+    padding: 10px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid #f8f8f8;
 }
 
 .content-section-c {
-    padding: 10px 0;
+    padding-top: 10px;
+    padding-bottom: 0px
     background-color: #f8f8f8;
 }
 
