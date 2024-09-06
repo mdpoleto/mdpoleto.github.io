@@ -114,6 +114,15 @@ h6 {
     border-bottom: 1px solid #f8f8f8;
 }
 
+.content-section-h1 {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-h2 {
+    padding: 50px 0;
+}
+
 .section-heading {
     font-size: 20px;
     font-weight: 500;
