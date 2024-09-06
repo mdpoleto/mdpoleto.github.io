@@ -4,11 +4,11 @@ img:
 category: Featured Publications
 description: |
 
-paper1: * M.D. Polêto and J.A. Lemkul (2023) “Structural and electronic properties of polyethylene terephthalate (PET) from polarizable molecular dynamics simulations.” ChemRxiv. [DOI](https://dx.doi.org/10.26434/chemrxiv-2024-dwhb8)<br>
+paper1: * M.D. Polêto and J.A. Lemkul (2023) “Structural and electronic properties of polyethylene terephthalate (PET) from polarizable molecular dynamics simulations.” ChemRxiv. [DOI](https://dx.doi.org/10.26434/chemrxiv-2024-dwhb8)
 
-paper2: * M.D. Polêto and J.A. Lemkul (2023) “Differences in Conformational Sampling and Intrinsic Electric Fields Drive Ion Binding in Telomeric and TERRA G-Quadruplexes.” J. Chem. Inf. Model. 63 (21): 6851-6862. (PMC10841373) [DOI](https://dx.doi.org/10.1021/acs.jcim.3c01305)<br>
+paper2: * M.D. Polêto and J.A. Lemkul (2023) “Differences in Conformational Sampling and Intrinsic Electric Fields Drive Ion Binding in Telomeric and TERRA G-Quadruplexes.” J. Chem. Inf. Model. 63 (21): 6851-6862. (PMC10841373) [DOI](https://dx.doi.org/10.1021/acs.jcim.3c01305)
 
-paper3: * M.D. Polêto and J.A. Lemkul (2022) "TUPÃ: Electric field analyses for molecular simulations" J. Comput. Chem. 43 (16): 1113-1119.  (PMC9098685) [DOI](https://dx.doi.org/10.1002/jcc.26873)<br>
+paper3: * M.D. Polêto and J.A. Lemkul (2022) "TUPÃ: Electric field analyses for molecular simulations" J. Comput. Chem. 43 (16): 1113-1119.  (PMC9098685) [DOI](https://dx.doi.org/10.1002/jcc.26873)
 
 paper4: * M.D. Polêto and J.A. Lemkul (2022) "Integration of experimental data and use of automated fitting methods in developing protein force fields" Comms. Chem. 5: 38. (PMC8979544) [DOI](https://doi.org/10.1038/s42004-022-00653-z)
 
