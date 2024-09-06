@@ -15,9 +15,8 @@
             {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
             {% if thecycle == 'odd' %}
             <div class="content-section-a">
-
                 <div class="container">
-                    <div class="row">
+                    <div class="row d-flex align-items-center"> <!-- Add d-flex and align-items-center -->
                         <div class="col-lg-5 col-sm-6">
                             <h2 class="section-heading" style="font-weight: bold;">{{ post.title }}</h2>
                             <div class="lead">{{ post.content }}</div>
