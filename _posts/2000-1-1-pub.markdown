@@ -1,8 +1,7 @@
 ---
 layout: default
 img:
-category: Publications
-title: "List of Publications"
+category: Featured Publications
 description: |
 ---
 
