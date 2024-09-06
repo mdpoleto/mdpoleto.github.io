@@ -106,17 +106,20 @@ h6 {
     background-color: #f8f8f8;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid #f8f8f8;
+    margin-bottom: 5px;
 }
 
 .content-section-b {
     padding: 10px 0;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid #f8f8f8;
+    margin-top: 5px;
 }
 
 .content-section-c {
     padding: 5px 0;
     background-color: #f8f8f8;
+    margin-top: 5px;
 }
 
 .content-section-d {
