@@ -33,21 +33,21 @@
 
             {% else %}
             <div class="content-section-b">
-
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6">
+                    <div class="row d-flex align-items-center"> <!-- Added d-flex and align-items-center -->
+                        <div class="col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6" style="margin-bottom: 0;"> <!-- Removed unnecessary margin -->
                             <h2 class="section-heading" style="font-weight: bold;">{{ post.title }}</h2>
                             <div class="lead">{{ post.content }}</div>
                         </div>
-                        <div class="col-lg-5 col-sm-pull-6 col-sm-6">
-                            <h2 class="section-heading">&nbsp</h2>
+                        <div class="col-lg-5 col-sm-pull-6 col-sm-6" style="margin-bottom: 0;"> <!-- Removed extra space between columns -->
+                            <h2 class="section-heading">&nbsp;</h2>
                             <img class="img-responsive center-block" src="img/proj/{{ post.img }}" alt="">
                         </div>
                     </div>
                 </div>
                 <!-- /.container -->
             </div>
+
             <!-- /.content-section-b -->
             {% endif %}
         {% endif %}
