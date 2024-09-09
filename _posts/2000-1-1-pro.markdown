@@ -1,9 +1,9 @@
 ---
 layout: default
-img: ff_dev.png
+img: enzyme.png
 category: Projects
 title: Enzyme engineering and plastic biorecycling
 description: Enzyme engineering towards plastic biorecycling
 ---
 
-We use simulations to investigate the molecular forces driving enzyme catalysis towards plastics.
+Our research employs simulations to explore the molecular forces driving enzyme catalysis of plastics. We rely on electrostatic properties such as dipole moments and electric fields to investigate how enzymes modulate their substrates. Our aim is to improve protein-plastic interactions and enzyme activity, contributing to the development of more sustainable biorecycling technologies aligned with the United Nations Sustainable Development Goals.

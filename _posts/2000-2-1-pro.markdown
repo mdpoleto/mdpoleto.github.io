@@ -6,4 +6,4 @@ title: Force field development for plastic polymers
 description: Force field development for plastic polymers
 ---
 
-We develop additive and polarizable force field parameters for plastic polymers to study protein-polymer interactions
+We develop additive and polarizable force field parameters for plastic polymers to study protein-polymer interactions. Our goal is to leverage computational methods to advance biorecycling technologies, fostering sustainable practices and promoting a true circular economy for plastics.
