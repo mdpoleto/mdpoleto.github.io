@@ -25,21 +25,21 @@ plugins:
 
 social:
   - icon: envelope-o
-    title: email
+    title: Email
     url: mailto:mdpoleto@usp.br
   - icon: flask
-    title: scholar
+    title: Scholar
     url: https://scholar.google.com/citations?user=sDHrqK4AAAAJ&hl
   - icon: file-pdf-o
     title: CV
     url: https://mdpoleto.github.io/rsc/full_CV_MDP.pdf
   - icon: github
-    title: github
+    title: GitHub
     url: https://github.com/mdpoleto
   - icon: bluesky
     title: BlueSky
     url: https://bsky.app/profile/mdpoleto.bsky.social
   - icon: linkedin
-    title: linkedin
+    title: Linkedin
     url: https://www.linkedin.com/in/marcelodpoleto/
     
