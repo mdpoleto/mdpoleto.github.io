@@ -6,7 +6,7 @@ url: https://mdpoleto.github.io/
 title: Marcelo D. Polêto
 email: marcelodepolo@gmail.com
 author: Marcelo D. Polêto
-description: "Research scientist at USP-EEL."
+description: "Assistant Professor at Universidade Federal de Viçosa (UFV-Brazil)."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,7 +26,7 @@ plugins:
 social:
   - icon: envelope-o
     title: Email
-    url: mailto:mdpoleto@usp.br
+    url: mailto:mdpoleto@ufv.br
   - icon: flask
     title: Scholar
     url: https://scholar.google.com/citations?user=sDHrqK4AAAAJ&hl
